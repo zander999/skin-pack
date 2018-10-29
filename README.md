@@ -1,2 +1,2 @@
 # skin-pack
-comntains MC skins
+contains MC skins
